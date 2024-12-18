@@ -8,3 +8,6 @@ dash
 
 #deploy 
 gunicorn
+
+
+openpyxl
