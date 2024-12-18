@@ -1,0 +1,13 @@
+#bacis
+pandas
+numpy
+
+#visualization
+plotly
+dash
+dash.dependencies
+plotly.graph_objects
+plotly.express
+
+#deploy 
+gunicorn
